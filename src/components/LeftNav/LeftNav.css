@@ -1,0 +1,77 @@
+/* .errorMsg{
+  height: 1.375em;
+}
+.IllumineLogo103x122 {
+  width: 34px;
+  height: 40px;
+  object-fit: contain;
+}
+.Group-2225 {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+.Group-2231 {
+  width: 27.9px;
+  height: 27.9px;
+  object-fit: contain;
+}
+.Group-2226 {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+.Group-2227 {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+.Group-2229 {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+.Explore {
+  width: 34px;
+  height: 14px;
+  font-family: Heebo;
+  font-size: 10px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ba1f00;
+} */
+.menu ul{
+  list-style-type: none;
+  width: 70px;
+  height: 100%;
+  background-color: #e9e9e9;
+}
+.menu ul li{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70px;
+  height: 70px;
+	line-height: 70px;
+}
+.menu ul li a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+	width: 48px;
+  height: 48px;
+	line-height: 48px;
+  transition: 0.2s ease-in-out;
+  border-radius: 5px;
+  background: transparent;
+}
+.menu ul li:hover a {
+  background-color: #34163b;
+}
+.h-100{
+  height: 100%;
+}

@@ -1,0 +1,34 @@
+/* .What-do-you-want-to-take-up-today {
+    width: 920px;
+    height: 34px;
+    font-family: Heebo;
+    font-size: 26px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #34163b;
+  }
+  .Prepare-Zone {
+    width: 84px;
+    height: 21px;
+    font-family: Heebo;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: normal;
+    text-align: left;
+    color: #34163b;
+  } */
+  .auth-form-cntr{
+    display: flex;
+    width: 1366px;
+    max-width: 100%;
+    align-items: start;
+    height: 100%;
+    padding: 1rem 0;
+  }
